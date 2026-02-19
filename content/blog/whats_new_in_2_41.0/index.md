@@ -20,7 +20,9 @@ You can now encrypt the config file providing better protection for any sensitiv
 
 [See here](/docs/help/config-file) for more information.
 
-{{< callout context="tip" icon="outline/info-circle" >}}Passwords and access keys are <b>obfuscated</b> even if encryption isn't used.  The encryption option provides much stronger protection and applies to the whole config.{{< /callout >}}
+{{< details "💡 Tip" >}}
+Passwords and access keys are <b>obfuscated</b> even if encryption isn't used.  The encryption option provides much stronger protection and applies to the whole config.
+{{< /details >}}
 
 
 ## Config file backup retention
